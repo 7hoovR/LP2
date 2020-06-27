@@ -1,0 +1,10 @@
+C:\Users\douglas\Documents\trabalho\lp2\vs\Ativ3\Ativ3\bin\Debug\Ativ3.exe.config
+C:\Users\douglas\Documents\trabalho\lp2\vs\Ativ3\Ativ3\bin\Debug\Ativ3.exe
+C:\Users\douglas\Documents\trabalho\lp2\vs\Ativ3\Ativ3\bin\Debug\Ativ3.pdb
+C:\Users\douglas\Documents\trabalho\lp2\vs\Ativ3\Ativ3\obj\Debug\Ativ3.csprojAssemblyReference.cache
+C:\Users\douglas\Documents\trabalho\lp2\vs\Ativ3\Ativ3\obj\Debug\Ativ3.Form1.resources
+C:\Users\douglas\Documents\trabalho\lp2\vs\Ativ3\Ativ3\obj\Debug\Ativ3.Properties.Resources.resources
+C:\Users\douglas\Documents\trabalho\lp2\vs\Ativ3\Ativ3\obj\Debug\Ativ3.csproj.GenerateResource.cache
+C:\Users\douglas\Documents\trabalho\lp2\vs\Ativ3\Ativ3\obj\Debug\Ativ3.csproj.CoreCompileInputs.cache
+C:\Users\douglas\Documents\trabalho\lp2\vs\Ativ3\Ativ3\obj\Debug\Ativ3.exe
+C:\Users\douglas\Documents\trabalho\lp2\vs\Ativ3\Ativ3\obj\Debug\Ativ3.pdb
