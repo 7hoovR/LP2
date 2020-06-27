@@ -1,0 +1,9 @@
+C:\Users\douglas\Documents\trabalho\lp2\vs\Ativ4\Ativ4\bin\Debug\Ativ4.exe.config
+C:\Users\douglas\Documents\trabalho\lp2\vs\Ativ4\Ativ4\bin\Debug\Ativ4.exe
+C:\Users\douglas\Documents\trabalho\lp2\vs\Ativ4\Ativ4\bin\Debug\Ativ4.pdb
+C:\Users\douglas\Documents\trabalho\lp2\vs\Ativ4\Ativ4\obj\Debug\Ativ4.Form1.resources
+C:\Users\douglas\Documents\trabalho\lp2\vs\Ativ4\Ativ4\obj\Debug\Ativ4.Properties.Resources.resources
+C:\Users\douglas\Documents\trabalho\lp2\vs\Ativ4\Ativ4\obj\Debug\Ativ4.csproj.GenerateResource.cache
+C:\Users\douglas\Documents\trabalho\lp2\vs\Ativ4\Ativ4\obj\Debug\Ativ4.csproj.CoreCompileInputs.cache
+C:\Users\douglas\Documents\trabalho\lp2\vs\Ativ4\Ativ4\obj\Debug\Ativ4.exe
+C:\Users\douglas\Documents\trabalho\lp2\vs\Ativ4\Ativ4\obj\Debug\Ativ4.pdb
