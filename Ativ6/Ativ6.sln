@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ativ6", "Ativ6\Ativ6.csproj", "{B0877EA8-F01C-4CDA-B00C-EB17F31C313F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0877EA8-F01C-4CDA-B00C-EB17F31C313F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0877EA8-F01C-4CDA-B00C-EB17F31C313F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0877EA8-F01C-4CDA-B00C-EB17F31C313F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0877EA8-F01C-4CDA-B00C-EB17F31C313F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BF3C1FA-F55C-4721-A3A8-7FD0E7ACD322}
+	EndGlobalSection
+EndGlobal
