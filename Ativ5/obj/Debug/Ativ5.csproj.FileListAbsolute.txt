@@ -1,0 +1,47 @@
+C:\Users\Flaah\Desktop\FATEC\2º Semestre\LP2\Aula 02 - Prática\bin\Debug\Aula 02 - Prática.exe.config
+C:\Users\Flaah\Desktop\FATEC\2º Semestre\LP2\Aula 02 - Prática\bin\Debug\Aula 02 - Prática.exe
+C:\Users\Flaah\Desktop\FATEC\2º Semestre\LP2\Aula 02 - Prática\bin\Debug\Aula 02 - Prática.pdb
+C:\Users\Flaah\Desktop\FATEC\2º Semestre\LP2\Aula 02 - Prática\obj\Debug\Aula 02 - Prática.csprojAssemblyReference.cache
+C:\Users\Flaah\Desktop\FATEC\2º Semestre\LP2\Aula 02 - Prática\obj\Debug\Aula_02___Prática.frmPrincipal.resources
+C:\Users\Flaah\Desktop\FATEC\2º Semestre\LP2\Aula 02 - Prática\obj\Debug\Aula_02___Prática.Properties.Resources.resources
+C:\Users\Flaah\Desktop\FATEC\2º Semestre\LP2\Aula 02 - Prática\obj\Debug\Aula 02 - Prática.csproj.GenerateResource.cache
+C:\Users\Flaah\Desktop\FATEC\2º Semestre\LP2\Aula 02 - Prática\obj\Debug\Aula 02 - Prática.exe
+C:\Users\Flaah\Desktop\FATEC\2º Semestre\LP2\Aula 02 - Prática\obj\Debug\Aula 02 - Prática.pdb
+C:\Users\Flaah\Desktop\FATEC\2º Semestre\LP2\Aula 02 - Prática\obj\Debug\Aula_02___Prática.frmExercicio2.resources
+C:\Users\flavi\Desktop\FATEC\2º Semestre\LP2\Aula 02 - Prática\bin\Debug\Aula 02 - Prática.exe.config
+C:\Users\flavi\Desktop\FATEC\2º Semestre\LP2\Aula 02 - Prática\bin\Debug\Aula 02 - Prática.exe
+C:\Users\flavi\Desktop\FATEC\2º Semestre\LP2\Aula 02 - Prática\bin\Debug\Aula 02 - Prática.pdb
+C:\Users\flavi\Desktop\FATEC\2º Semestre\LP2\Aula 02 - Prática\obj\Debug\Aula 02 - Prática.csprojAssemblyReference.cache
+C:\Users\flavi\Desktop\FATEC\2º Semestre\LP2\Aula 02 - Prática\obj\Debug\Aula_02___Prática.frmPrincipal.resources
+C:\Users\flavi\Desktop\FATEC\2º Semestre\LP2\Aula 02 - Prática\obj\Debug\Aula_02___Prática.frmExercicio2.resources
+C:\Users\flavi\Desktop\FATEC\2º Semestre\LP2\Aula 02 - Prática\obj\Debug\Aula_02___Prática.frmExercicio3.resources
+C:\Users\flavi\Desktop\FATEC\2º Semestre\LP2\Aula 02 - Prática\obj\Debug\Aula_02___Prática.Properties.Resources.resources
+C:\Users\flavi\Desktop\FATEC\2º Semestre\LP2\Aula 02 - Prática\obj\Debug\Aula 02 - Prática.csproj.GenerateResource.cache
+C:\Users\flavi\Desktop\FATEC\2º Semestre\LP2\Aula 02 - Prática\obj\Debug\Aula 02 - Prática.csproj.CoreCompileInputs.cache
+C:\Users\flavi\Desktop\FATEC\2º Semestre\LP2\Aula 02 - Prática\obj\Debug\Aula 02 - Prática.exe
+C:\Users\flavi\Desktop\FATEC\2º Semestre\LP2\Aula 02 - Prática\obj\Debug\Aula 02 - Prática.pdb
+C:\Users\douglas\Documents\trabalho\lp2\vs\Aula 02 - Prática\obj\Debug\Aula 02 - Prática.csprojAssemblyReference.cache
+C:\Users\douglas\Documents\trabalho\lp2\vs\Aula 02 - Prática\obj\Debug\Aula_02___Prática.frmPrincipal.resources
+C:\Users\douglas\Documents\trabalho\lp2\vs\Aula 02 - Prática\obj\Debug\Aula_02___Prática.frmExercicio2.resources
+C:\Users\douglas\Documents\trabalho\lp2\vs\Aula 02 - Prática\obj\Debug\Aula_02___Prática.frmExercicio3.resources
+C:\Users\douglas\Documents\trabalho\lp2\vs\Aula 02 - Prática\obj\Debug\Aula_02___Prática.frmExercicio4.resources
+C:\Users\douglas\Documents\trabalho\lp2\vs\Aula 02 - Prática\obj\Debug\Aula_02___Prática.frmExercicio5.resources
+C:\Users\douglas\Documents\trabalho\lp2\vs\Aula 02 - Prática\obj\Debug\Aula_02___Prática.Properties.Resources.resources
+C:\Users\douglas\Documents\trabalho\lp2\vs\Aula 02 - Prática\obj\Debug\Aula 02 - Prática.csproj.GenerateResource.cache
+C:\Users\douglas\Documents\trabalho\lp2\vs\Aula 02 - Prática\obj\Debug\Aula 02 - Prática.csproj.CoreCompileInputs.cache
+C:\Users\douglas\Documents\trabalho\lp2\vs\Aula 02 - Prática\obj\Debug\Aula 02 - Prática.exe
+C:\Users\douglas\Documents\trabalho\lp2\vs\Aula 02 - Prática\obj\Debug\Aula 02 - Prática.pdb
+C:\Users\douglas\Documents\trabalho\lp2\vs\Ativ5\bin\Debug\Aula 02 - Prática.exe.config
+C:\Users\douglas\Documents\trabalho\lp2\vs\Ativ5\bin\Debug\Aula 02 - Prática.exe
+C:\Users\douglas\Documents\trabalho\lp2\vs\Ativ5\bin\Debug\Aula 02 - Prática.pdb
+C:\Users\douglas\Documents\trabalho\lp2\vs\Ativ5\obj\Debug\Ativ5.csprojAssemblyReference.cache
+C:\Users\douglas\Documents\trabalho\lp2\vs\Ativ5\obj\Debug\Aula_02___Prática.frmPrincipal.resources
+C:\Users\douglas\Documents\trabalho\lp2\vs\Ativ5\obj\Debug\Aula_02___Prática.frmExercicio2.resources
+C:\Users\douglas\Documents\trabalho\lp2\vs\Ativ5\obj\Debug\Aula_02___Prática.frmExercicio3.resources
+C:\Users\douglas\Documents\trabalho\lp2\vs\Ativ5\obj\Debug\Aula_02___Prática.frmExercicio4.resources
+C:\Users\douglas\Documents\trabalho\lp2\vs\Ativ5\obj\Debug\Aula_02___Prática.frmExercicio5.resources
+C:\Users\douglas\Documents\trabalho\lp2\vs\Ativ5\obj\Debug\Aula_02___Prática.Properties.Resources.resources
+C:\Users\douglas\Documents\trabalho\lp2\vs\Ativ5\obj\Debug\Ativ5.csproj.GenerateResource.cache
+C:\Users\douglas\Documents\trabalho\lp2\vs\Ativ5\obj\Debug\Ativ5.csproj.CoreCompileInputs.cache
+C:\Users\douglas\Documents\trabalho\lp2\vs\Ativ5\obj\Debug\Aula 02 - Prática.exe
+C:\Users\douglas\Documents\trabalho\lp2\vs\Ativ5\obj\Debug\Aula 02 - Prática.pdb

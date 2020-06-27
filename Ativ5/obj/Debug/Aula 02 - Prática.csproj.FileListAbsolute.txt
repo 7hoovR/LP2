@@ -1,0 +1,14 @@
+C:\Users\douglas\Documents\trabalho\lp2\vs\Ativ5\bin\Debug\Aula 02 - Prática.exe.config
+C:\Users\douglas\Documents\trabalho\lp2\vs\Ativ5\bin\Debug\Aula 02 - Prática.exe
+C:\Users\douglas\Documents\trabalho\lp2\vs\Ativ5\bin\Debug\Aula 02 - Prática.pdb
+C:\Users\douglas\Documents\trabalho\lp2\vs\Ativ5\obj\Debug\Aula 02 - Prática.csprojAssemblyReference.cache
+C:\Users\douglas\Documents\trabalho\lp2\vs\Ativ5\obj\Debug\Aula_02___Prática.frmPrincipal.resources
+C:\Users\douglas\Documents\trabalho\lp2\vs\Ativ5\obj\Debug\Aula_02___Prática.frmExercicio2.resources
+C:\Users\douglas\Documents\trabalho\lp2\vs\Ativ5\obj\Debug\Aula_02___Prática.frmExercicio3.resources
+C:\Users\douglas\Documents\trabalho\lp2\vs\Ativ5\obj\Debug\Aula_02___Prática.frmExercicio4.resources
+C:\Users\douglas\Documents\trabalho\lp2\vs\Ativ5\obj\Debug\Aula_02___Prática.frmExercicio5.resources
+C:\Users\douglas\Documents\trabalho\lp2\vs\Ativ5\obj\Debug\Aula_02___Prática.Properties.Resources.resources
+C:\Users\douglas\Documents\trabalho\lp2\vs\Ativ5\obj\Debug\Aula 02 - Prática.csproj.GenerateResource.cache
+C:\Users\douglas\Documents\trabalho\lp2\vs\Ativ5\obj\Debug\Aula 02 - Prática.csproj.CoreCompileInputs.cache
+C:\Users\douglas\Documents\trabalho\lp2\vs\Ativ5\obj\Debug\Aula 02 - Prática.exe
+C:\Users\douglas\Documents\trabalho\lp2\vs\Ativ5\obj\Debug\Aula 02 - Prática.pdb
